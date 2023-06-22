@@ -12,10 +12,12 @@ Make sure you have Docker and Docker Compose installed on your system.
    ```shell
    git clone https://github.com/JChopra2000/PYOR-Edge-Assignment.git
 2. Navigate to the project directory:
-    `cd PYOR-Edge-Assignment`
+    ```shell
+    cd PYOR-Edge-Assignment
 3. Build and run the application using Docker Compose:
-    `docker-compose up`
-    This command will build and start the backend and frontend services along with their dependencies.
+    ```shell
+    docker-compose up`
+This command will build and start the backend and frontend services along with their dependencies.
 4. Open your browser and visit http://localhost:3000 to see the application running.
 
 ### Repository
